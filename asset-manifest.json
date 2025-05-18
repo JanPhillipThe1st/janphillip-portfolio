@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/janphillip-portfolio/static/css/main.61ec67a2.css",
-    "main.js": "/janphillip-portfolio/static/js/main.c5da6b59.js",
+    "main.css": "/janphillip-portfolio/static/css/main.9e7aca0a.css",
+    "main.js": "/janphillip-portfolio/static/js/main.24651e08.js",
     "static/js/453.bfd2f0ef.chunk.js": "/janphillip-portfolio/static/js/453.bfd2f0ef.chunk.js",
     "static/media/ecff7010-61dc-4684-a57e-067d9302870c.jpg": "/janphillip-portfolio/static/media/ecff7010-61dc-4684-a57e-067d9302870c.7a81389d259e7b4d68a1.jpg",
     "static/media/01dc0205-5703-42b9-9806-d8cda34a54b3.jpg": "/janphillip-portfolio/static/media/01dc0205-5703-42b9-9806-d8cda34a54b3.7606fb5d604c3d35dba6.jpg",
@@ -19,12 +19,12 @@
     "static/media/30fc6150-7c97-4f77-8a8d-5fb5d1363185.jpg": "/janphillip-portfolio/static/media/30fc6150-7c97-4f77-8a8d-5fb5d1363185.a1b3f1cb630026a79b6c.jpg",
     "static/media/73761e5f-bc60-4290-9b68-818fddb0ba77.jpg": "/janphillip-portfolio/static/media/73761e5f-bc60-4290-9b68-818fddb0ba77.39101c8e5a7c0b1da1ac.jpg",
     "index.html": "/janphillip-portfolio/index.html",
-    "main.61ec67a2.css.map": "/janphillip-portfolio/static/css/main.61ec67a2.css.map",
-    "main.c5da6b59.js.map": "/janphillip-portfolio/static/js/main.c5da6b59.js.map",
+    "main.9e7aca0a.css.map": "/janphillip-portfolio/static/css/main.9e7aca0a.css.map",
+    "main.24651e08.js.map": "/janphillip-portfolio/static/js/main.24651e08.js.map",
     "453.bfd2f0ef.chunk.js.map": "/janphillip-portfolio/static/js/453.bfd2f0ef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61ec67a2.css",
-    "static/js/main.c5da6b59.js"
+    "static/css/main.9e7aca0a.css",
+    "static/js/main.24651e08.js"
   ]
 }
